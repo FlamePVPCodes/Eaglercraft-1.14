@@ -2,35 +2,12 @@
 -
 💬 **Discord**: [Official Discord](https://discord.gg/Vf8gx85t).          
 
-⏰ **Expected Arrival**: November or December
+⏰ **Expected Arrival**: RIGHT NOW! DISJJANSWNSMS
 
-
-🚨 **Mojang DMCA Notice**: Hey Mojang, before you drop that DMCA hammer, take a moment to read lax1dude's heartfelt plea on this [website](https://github.com/lax1dude/eaglercraftx-1.8). EaglerCraft isn't just a project; it's a symbol of Minecraft community creativity and dedication. Let's keep the blocky wings spread and let it thrive! 🦅🧱
-
-💻 **NOTE!**: If you would like to embed Eaglercraft into a application window watch BtPlayzX's YouTube video on how to put Eaglercraft 1.5.2 on an application window! Link: https://www.youtube.com/watch?v=MHPPb6mH6WA
 
 🔥 **EaglerCraft Lives On!**: Our commitment to EaglerCraft's development is unstoppable! It will keep evolving to provide an exceptional Minecraft experience. 💪🌟
 
-### Meet the Visionaries
-
-👨‍💻 **lax1dude**
-- 🌟 **Creator of EaglerCraft**
-- ✨ Pioneered HW accelerated OpenGL 1.3 emulation
-- 💼 Wrote all desktop emulation code
-- ⚙️ Ported the Minecraft 1.8 client src to TeaVM
-- 🔧 Developed EaglercraftXBungee
-- 🏗️ Established the patch and build system
-- 🤼 Tries to bring the Eaglercraft community together
-
-👩‍💻 **ayunami2000**
-- 🛠️ Contributed many bug fixes
-- 🎨 Introduced resource packs
-- 📹 Implemented screen recording
-- 🖥️ Enhanced the seamless fullscreen experience
-- 📦 Created the replit
-- 🤼 Tries to bring the Eaglercraft community together
-
-👬 **Meet the EaglerBrothers™**:
+👬 **Meet the Ardevojang Studios™**:
 
 👨‍💻 **AR-DEV-1**
 - 🌐 Paved the way for Eagler development console to code in diverse programming languages
